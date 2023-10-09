@@ -54,7 +54,7 @@
 
                     <tr>
 
-                        <td><input type="submit" value="modifier" name="modifier" onclick="captureSelectedValue()" />
+                        <td><input type="submit" value="Valider" name="valider" onclick="captureSelectedValue()" />
 
 
                         <td></td>
